@@ -1,4 +1,4 @@
 # Olá, mundo!
  Meu primeiro repositório do curso de Git e GtiHub
 
- Repositório criado durante uma aula ao vivo.
+ Repositório criado durante uma aula ao vivo com Gustavo Guanabara!
